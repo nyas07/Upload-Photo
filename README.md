@@ -1,10 +1,16 @@
 # Upload-Photo
 
+#### Video Demo:  https://www.youtube.com/watch?v=kjS4hO3aeP0&t=2s
+
+#### Description:
+
 A social media application where users can share photos and comments, built using Swift and Firebase.
 
 This application was developed as a CS50 final project, inspired by the social media applications we use in our daily lives. 
 
 I wanted to make a project like this to expand my knowledge of IOS development.
+
+
 
 Technologies used:
 
